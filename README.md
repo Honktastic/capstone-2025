@@ -4,4 +4,4 @@ capstone primer semestre 2025
 + Informe APT (.docx)
 + Presentacion Proyecto (.pptx)
 + Definicion de proyecto APT (Ingles y Español) (.docx)
-+ Evaluacion fase 1 (???) (.xlsx)
+
