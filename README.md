@@ -6,6 +6,15 @@
 
 # Meditrack
 
+El proyecto consiste en implementar MediTrack, un servicio web local de gestión inteligente de inventario, que propone el uso de modelos de visión artificial para automatizar el registro de insumos, y algoritmos de machine learning para predecir la demanda futura. Además, se integrará un sistema de alertas en tiempo real junto con la generación automática de informes que detallarán los resultados en caso de quiebre de stock.
+
+##Objetivo General
+Desarrollar e implementar MediTrack, un sistema inteligente de gestión de inventario médico para el Hospital Clínico Félix Bulnes, que integre visión artificial, machine learning y automatización de procesos, con el fin de:
++	Eliminar pérdidas económicas derivadas del mal manejo de insumos médicos.
++	Garantizar la disponibilidad continua de insumos críticos, evitando interrupciones en la atención médica.
++	Optimizar el tiempo del personal administrativo y clínico mediante la automatización de los procesos manuales de registro y seguimiento.
+
+
 ## capstone-2025
 capstone primer semestre 2025
 
@@ -18,7 +27,8 @@ capstone primer semestre 2025
 
 
 ### Entrega 1 
-+ Informe APT (.docx)
-+ Presentacion Proyecto (.pptx)
-+ Definicion de proyecto APT (Ingles y Español) (.docx)
++ Informe APT (.docx) - [link](https://github.com/Honktastic/capstone-2025/blob/main/Entrega1/Informe_apt_1_espa.docx)
++ Presentacion Proyecto (.pptx) - [link](https://github.com/Honktastic/capstone-2025/blob/main/Entrega1/MEDITRACK.pptx)
++ Definicion de proyecto APT (Español) (.docx) - [link](https://github.com/Honktastic/capstone-2025/blob/main/Entrega1/1.5_GuiaEstudiante_Fase%201_Definicion%20Proyecto%20APT_v1_espa%C3%B1ol.docx)
++ Carta Gantt (.Xlxs) - [@link](https://github.com/Honktastic/capstone-2025/blob/main/Entrega1/carta_gantt_v1.xlsx)
 
