@@ -30,5 +30,5 @@ capstone primer semestre 2025
 + Informe APT (.docx) - [link](https://github.com/Honktastic/capstone-2025/blob/main/FASE%201/Evidencias%20Grupales/Informe_apt_1_espa.docx)
 + Presentacion Proyecto (.pptx) - [link](https://github.com/Honktastic/capstone-2025/blob/main/FASE%201/Evidencias%20Grupales/MEDITRACK.pptx)
 + Definicion de proyecto APT (Español) (.docx) - [link](https://github.com/Honktastic/capstone-2025/blob/main/FASE%201/Evidencias%20Grupales/1.5_GuiaEstudiante_Fase%201_Definicion%20Proyecto.docx)
-+ Carta Gantt (.Xlxs) - [@link](https://github.com/Honktastic/capstone-2025/blob/main/FASE%201/Evidencias%20Grupales/carta_gantt_v1.xlsx)
++ Carta Gantt (.Xlxs) - [link](https://github.com/Honktastic/capstone-2025/blob/main/FASE%201/Evidencias%20Grupales/carta_gantt_v1.xlsx)
 
